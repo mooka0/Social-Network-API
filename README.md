@@ -2,16 +2,16 @@
 This application allows an user to use REST API for a social network with a NOSQL database. Mongoose models are synced to MongoDB database, and tested with Insomnia. 
 
 # Set Up
-git clone https://github.com/mooka0/Social-Network-API.git
-git init
-npm install
-npm start
+git clone https://github.com/mooka0/Social-Network-API.git <br>
+git init <br>
+npm install <br>
+npm start <br>
 
 # Technologies Used:
-Javascript
-Node
-Express
-Mongoose
+Javascript <br>
+Node <br>
+Express <br>
+Mongoose <br>
 
 # Screen shot
 
